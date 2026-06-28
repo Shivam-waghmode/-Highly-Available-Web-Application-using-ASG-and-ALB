@@ -341,4 +341,3 @@ Unhealthy servers are automatically replaced.
 ---
 
 
-![Scaling Log](images/MONITOR/asg-cpuUtitlization-load-graph2.jpg)
